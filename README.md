@@ -61,6 +61,9 @@ Copy
 php artisan serve
 Now you can access the app by navigating to http://localhost:8000.
 
+
+When making the User as Admin open phpmyadmin, then edit the role from 'patient' to 'admin'.
+
 File Structure
 resources/css/app.css: Main CSS file, styled using Tailwind CSS.
 resources/js/app.js: JavaScript file for dynamic components and interactions.
